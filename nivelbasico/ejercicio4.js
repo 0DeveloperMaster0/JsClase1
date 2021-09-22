@@ -1,0 +1,1 @@
+confirm(" ¿Quieres salir de este trolleo? ");
